@@ -1,0 +1,4 @@
+Model,MCRMSE,Score (/150)
+BERT+Ridge,0.7503,74.968
+BERT+LightGBM,0.7533,74.67
+Baseline (TF-IDF+Ridge),0.7745,72.5493
